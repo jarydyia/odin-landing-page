@@ -163,7 +163,8 @@ button{
     margin: 100px 200px;
     border-radius: 15px 15px;
     gap: 150px;
-    width: auto
+    width: auto;
+    flex:1 1 auto;
 }
 
 
@@ -178,7 +179,27 @@ button{
     margin: 0;
 }
 
+.sign-left{
+    flex-wrap:wrap ;
+}
+
+.sign-right{
+    flex-wrap: wrap;
+}
+
 .sign-2{
     color: #e5e7eb;
     font-size: 20px;
+}
+
+/* COMPLETED SIGNUP SECTION */
+.footer{
+    text-align: center;
+    background-color: #1F2937;
+    color: #f9faf8;
+}
+
+.container-footer{
+    display: flex;
+    flex-direction: column;
 }
