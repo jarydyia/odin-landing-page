@@ -56,3 +56,22 @@ img{
     flex-wrap: wrap;
 }
 
+.main-header{
+    font-size: 40px;
+    font-weight: 900;
+    color: #f9faf8;
+    margin-bottom: 20px;
+}
+
+.main-content{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+button{
+    border-radius: 15px 15px;
+    font-size:25px;
+    background-color:#3882f6 ;
+    color: #f9faf8;
+    padding: 5px 10px
+}
