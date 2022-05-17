@@ -76,10 +76,23 @@ button{
     padding: 5px 10px
 }
 
+/* CONTENT SECTION COMPLETED */
+
 .title{
     text-align: center;
     font-size: 36px;
     font-weight: 700;
     color: #1f2937;
     margin-top: 20px;
+}
+
+.card{
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
+
+.info-img{
+    width: 100px;
+    height: 100px;
 }
